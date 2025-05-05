@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="825a2366-6a58-4d3d-a251-4862f1d39746" name="Changes" comment="1er changement">
-      <change afterPath="$PROJECT_DIR$/src/test/java/modele/PlageHoraireTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/modele/HoraireTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/modele/HoraireTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.HoraireTest.executor": "Run",
     "JUnit.PlageHoraireTest2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -88,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746437993020</updated>
-      <workItem from="1746437994133" duration="770000" />
+      <workItem from="1746437994133" duration="1727000" />
     </task>
     <task id="LOCAL-00001" summary="1er changement">
       <option name="closed" value="true" />
@@ -106,7 +107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746438512909</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1er changement">
+      <option name="closed" value="true" />
+      <created>1746438807790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746438807790</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1er changement">
+      <option name="closed" value="true" />
+      <created>1746439181981</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746439181981</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
