@@ -1,5 +1,6 @@
 package modele;
 
+import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -28,5 +29,12 @@ class HoraireTest {
         Horaire h2 = new Horaire (8,0);
         assertTrue(h1.compareTo(h2) == 0);
 
+    }
+
+    @Test
+    @Order(0)
+    void toMinute() {
+        Horaire h1 = new Horaire (1,0);
+        assertTrue(h1.toMinute() == 60);
     }
 }
