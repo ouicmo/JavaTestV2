@@ -36,4 +36,9 @@ public class Horaire {
     public String toString(){
         return chHeure + "h" + chQuartHeure;
     }
+
+
+    public int compareTo(Horaire parHoraire) {
+        return this.toMinute() - parHoraire.toMinute();
+    }
 }
