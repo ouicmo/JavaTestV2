@@ -9,8 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class PlageHoraireTest {
 
     @org.junit.jupiter.api.Test
-    void compareTo() {
-        @Test
+
         @Order(1)
         void testPlageAvant() {
             PlageHoraire plage1 = new PlageHoraire(new Horaire(8, 0), new Horaire(9, 0));
@@ -34,4 +33,3 @@ class PlageHoraireTest {
             assertEquals(0, plage1.compareTo(plage2));
         }
     }
-}
