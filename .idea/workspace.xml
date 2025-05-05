@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="825a2366-6a58-4d3d-a251-4862f1d39746" name="Changes" comment="1er changement">
-      <change beforePath="$PROJECT_DIR$/src/test/java/modele/HoraireTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/modele/HoraireTest.java" afterDir="false" />
+    <list default="true" id="825a2366-6a58-4d3d-a251-4862f1d39746" name="Changes" comment="Ajout de la methode de test toMinute dans HoraireTest">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/modele/Horaire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modele/Horaire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/modele/PlageHoraireTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/modele/PlageHoraireTest2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746437993020</updated>
-      <workItem from="1746437994133" duration="2581000" />
+      <workItem from="1746437994133" duration="3776000" />
     </task>
     <task id="LOCAL-00001" summary="1er changement">
       <option name="closed" value="true" />
@@ -131,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746439884446</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ajout de la methode de test toMinute dans HoraireTest">
+      <option name="closed" value="true" />
+      <created>1746440646346</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746440646346</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +149,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1er changement" />
-    <option name="LAST_COMMIT_MESSAGE" value="1er changement" />
+    <MESSAGE value="Ajout de la methode de test toMinute dans HoraireTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout de la methode de test toMinute dans HoraireTest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
