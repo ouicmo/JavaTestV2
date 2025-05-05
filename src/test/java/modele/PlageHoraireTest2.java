@@ -36,4 +36,5 @@ import static org.junit.jupiter.api.Assertions.*;
         PlageHoraire plage3 = new PlageHoraire(new Horaire(9, 0), new Horaire(10, 0));
         assertTrue(new Horaire(1,0).compareTo(plage3.duree())==0);
     }
+
 }
